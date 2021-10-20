@@ -1,5 +1,5 @@
 # OnlineForever™
-[![forthebadge](https://cdn.discordapp.com/attachments/876123913912979456/899926358375952384/unknown.png)](https://bit.ly/ItzSidhanDS)
+[![Made with JavaScript](https://cdn.discordapp.com/attachments/876123913912979456/899926358375952384/unknown.png)](https://bit.ly/ItzSidhanDS)
 
 ### To make your discord account stay 24/7 online!
 ### This Was Created by [ItzSidhan](https://bit.ly/ItzSidhanYT)
