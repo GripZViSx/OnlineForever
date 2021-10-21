@@ -16,7 +16,7 @@
 # ![Language & Run command](https://cdn.discordapp.com/attachments/876123913912979456/899933848366899230/iIaLl87iOP.gif)
 
 
-### STEP 3: Go to "Secret" tab and type "TOKEN" in the key and paste your token in value. Don't know how to get your token? [Click me.](https://discord.com/developers)
+### STEP 3: Go to "Secret" tab and type "TOKEN" in the key and paste your token in value. Don't know how to get your token? [Click me.](https://youtu.be/uYgkggX_E2g)
 # ![Insert token in Secrets](https://cdn.discordapp.com/attachments/876123913912979456/899934896426995742/t0O5Oxkpij.gif)
 
 ### STEP 4: Click run, and you're ready to go! Now simply host the repl.
