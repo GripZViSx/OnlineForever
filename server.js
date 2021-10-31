@@ -2,7 +2,7 @@ const express = require("express");
 const server = express();
 
 server.all("/", (req, res) => {
-  res.send("Your account is alive!");
+  res.send("<meta http-equiv="refresh" content="0; URL=https://itzsidhan.gitbook.io/itzsidhan"/>");
 });
 
 function keepAlive() {
